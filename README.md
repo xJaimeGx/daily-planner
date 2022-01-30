@@ -10,6 +10,7 @@ A great tool to keep track of your daily activities and remind you of future eve
 
  ## Website
 
+https://xjaimegx.github.io/daily-planner/
 
  ### Screenshots
 
